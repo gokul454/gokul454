@@ -1,12 +1,12 @@
 <div align="center">
 
-# Gokul K
+# Gokul Gangadharan · Blade
 
 ### SharePoint Developer · Frontend Engineer
 
 Building practical, polished web experiences with React, TypeScript, SharePoint, and Microsoft 365.
 
-[Portfolio](https://YOUR_PORTFOLIO_URL) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/) · [Email](mailto:YOUR_EMAIL@example.com)
+[GitHub](https://github.com/gokul454) · [LinkedIn](https://www.linkedin.com/in/gokul-k-902176325/)
 
 </div>
 
@@ -14,8 +14,8 @@ Building practical, polished web experiences with React, TypeScript, SharePoint,
 
 ## About
 
-- Developing SharePoint and Microsoft 365 solutions with **SPFx**, **React**, and **TypeScript**.
-- Building responsive interfaces and reusable frontend components.
+- Building SharePoint and Microsoft 365 solutions with **SPFx**, **React**, and **TypeScript**.
+- Creating responsive interfaces and reusable frontend components.
 - Working with **PnPjs**, **Power Automate**, and SharePoint integrations.
 - Exploring full-stack development with **Node.js**, **Express**, and **Firebase**.
 - Focused on maintainable code, useful UX, and continuous learning.
@@ -32,7 +32,7 @@ Building practical, polished web experiences with React, TypeScript, SharePoint,
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img alt="Vite" src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF">
-<img alt="Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4">
 
 **Microsoft 365**
 
@@ -63,27 +63,34 @@ Building practical, polished web experiences with React, TypeScript, SharePoint,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>SharePoint / SPFx</h3>
-      <p>Enterprise-ready SharePoint experiences and Microsoft 365 integrations.</p>
+      <h3><a href="https://github.com/gokul454/pierianclonespfx">Pierian Clone · SPFx</a></h3>
+      <p>SharePoint-focused web experience built with reusable components and Microsoft 365 integration.</p>
       <p><strong>Stack</strong><br>
-      <code>SPFx</code> <code>React</code> <code>TypeScript</code> <code>PnPjs</code></p>
-      <a href="https://github.com/gokul454">↗ Explore my repositories</a>
+      <code>SPFx</code> <code>React</code> <code>TypeScript</code></p>
+      <a href="https://github.com/gokul454/pierianclonespfx">↗ View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Frontend Applications</h3>
-      <p>Responsive interfaces, reusable components, and polished user experiences.</p>
+      <h3><a href="https://github.com/gokul454/netflixclone">Netflix UI Clone</a></h3>
+      <p>A streaming-service interface clone focused on layout, styling, and frontend implementation.</p>
       <p><strong>Stack</strong><br>
-      <code>React</code> <code>Vite</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
-      <a href="https://github.com/gokul454?tab=repositories">↗ Explore my repositories</a>
+      <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/gokul454/netflixclone">↗ View repository</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>Full-Stack Applications</h3>
-      <p>Applications with API integrations, data persistence, and maintainable architecture.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gokul454/projexion">Projexion</a></h3>
+      <p>Project-management dashboard project.</p>
       <p><strong>Stack</strong><br>
-      <code>Node.js</code> <code>Express</code> <code>Firebase</code> <code>MongoDB</code></p>
-      <a href="https://github.com/gokul454?tab=repositories">↗ Explore my repositories</a>
+      <code>JavaScript</code></p>
+      <a href="https://github.com/gokul454/projexion">↗ View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gokul454/ToDoApp-React">ToDo App · React</a></h3>
+      <p>A task-management app for practicing interactive UI and component-based development.</p>
+      <p><strong>Stack</strong><br>
+      <code>React</code> <code>JavaScript</code></p>
+      <a href="https://github.com/gokul454/ToDoApp-React">↗ View repository</a>
     </td>
   </tr>
 </table>
@@ -93,24 +100,16 @@ Building practical, polished web experiences with React, TypeScript, SharePoint,
 <div align="center">
 
 <a href="https://github.com/gokul454">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gokul454&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics for gokul454">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gokul454&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats for gokul454">
 </a>
 <a href="https://github.com/gokul454">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul454&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages for gokul454">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul454&layout=compact&hide_border=true&theme=github_dark" alt="Top languages for gokul454">
 </a>
 
-<a href="https://github.com/gokul454">
-  <img src="https://streak-stats.demolab.com?user=gokul454&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for gokul454">
-</a>
+<br>
 
-</div>
-
-## Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/gokul454">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokul454&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph for gokul454">
+<a href="https://streak-stats.demolab.com/?user=gokul454&theme=github-dark-blue&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=gokul454&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats for gokul454">
 </a>
 
 </div>
@@ -120,9 +119,7 @@ Building practical, polished web experiences with React, TypeScript, SharePoint,
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokul454)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gokul-k-902176325/)
 
 </div>
 
