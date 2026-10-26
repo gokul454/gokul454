@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gokul Gangadharan · Blade
+# Gokul K
 
 ### SharePoint Developer · Frontend Engineer
 
